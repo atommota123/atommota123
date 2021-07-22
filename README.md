@@ -1,6 +1,7 @@
 
 
-![tumblr_0d12fe00ae6f5b37d32ebffb442a897a_49ef9f2e_640](https://user-images.githubusercontent.com/72923418/126666946-644a8b0c-ebe5-4f1b-b9be-9d9893bb4db8.gif) 
+![github_readme](https://user-images.githubusercontent.com/72923418/126668623-7db0921a-1690-4cf1-a2b5-2e3bdd84c8d7.gif)
+
 
 
 
