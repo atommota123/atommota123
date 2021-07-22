@@ -1,6 +1,7 @@
 
 
-![github_readme](https://user-images.githubusercontent.com/72923418/126668623-7db0921a-1690-4cf1-a2b5-2e3bdd84c8d7.gif)
+![github_readme](https://user-images.githubusercontent.com/72923418/126668919-27b175bd-0164-420f-ad77-37ea91791e37.gif)
+
 
 
 
