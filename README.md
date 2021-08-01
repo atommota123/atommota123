@@ -1,6 +1,6 @@
 
 
-![github_readme](https://user-images.githubusercontent.com/72923418/126669338-1e4d3b4c-9d31-47ca-bb4b-a640a573c75f.gif)
+
 
 
 
@@ -10,6 +10,7 @@
 
 
 <!--
+![github_readme](https://user-images.githubusercontent.com/72923418/126669338-1e4d3b4c-9d31-47ca-bb4b-a640a573c75f.gif)
 **atommota123/atommota123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![atommota123's GitHub stats](https://github-readme-stats.vercel.app/api?username=atommota123)](https://github.com/atommota123/github-readme-stats) !
 Here are some ideas to get you started:
